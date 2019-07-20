@@ -16,7 +16,7 @@
 
 ## Send Parcel Page
 
-### Select ``Vehicle  `` 
+### Select ``Vehicle            Parcel                            Submit `` 
 <img src="./images/send_page.png" height="400px" width="250">	<img src="./images/send_select.png" height="400px" width="250"> <img src="./images/send_parcel_submit.png" height="400px" width="250">
 
 ### Receive Page
