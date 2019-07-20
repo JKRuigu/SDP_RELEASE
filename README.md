@@ -16,14 +16,8 @@
 
 ## Send Parcel Page
 
-### Select ``Vehicle `` 
-<img src="./images/send_page.png" height="400px" width="250">	
-
-### Select Parcels
-<img src="./images/send_select.png" height="400px" width="250">
-
-### Submit Parcels
-<img src="./images/send_parcel_submit.png" height="400px" width="250">
+### Select ``Vehicle  `` 
+<img src="./images/send_page.png" height="400px" width="250">	<img src="./images/send_select.png" height="400px" width="250"> <img src="./images/send_parcel_submit.png" height="400px" width="250">
 
 ### Receive Page
 - Click on select button``When you submit a message is automaticall send to the receiver``
