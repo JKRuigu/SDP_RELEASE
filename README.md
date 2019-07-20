@@ -12,7 +12,7 @@
 - You are required to fill all the fields ``NOTE`` For Catergory and Loaction click on select button to choose you choice
 - Inputs with ``ERRORS`` will be highlighted in red & An alert will display
 - Click ``Register Button`` to register the parcel a confirmation message wil be sent to the ``Sender ``
-<img src="./images/reg_parcel.png" height="400px" width="250">
+<img src="./images/reg_percels.png" height="400px" width="250">
 
 ## Send Parcel Page
 
@@ -37,4 +37,4 @@
 <img src="./images/drawer.png" height="450px" width="250">
 
 ### Drawer Pages
-<img src="./images/accounts.png" height="400px" width="250"><img src="./images/settings.png" height="400px" width="250"><img src="./images/about.png" height="400px" width="250">
+<img src="./images/accounts.png" height="400px" width="250"> <img src="./images/settings.png" height="400px" width="250"> <img src="./images/about.png" height="400px" width="250">
