@@ -2,8 +2,10 @@
 **mangement your delivery in one click**
 ## MOBILE APP(ANDROID)
 ### LOGIN PAGE
-<img src="./images/login.png" height="400px" width="250"> - Enter your username and password to continue - To use the demo account username ``demo`` password ``demo`` - *Automatated messaging is a deactivated and records will be permanenty be deleted after 24Hrs*
-
+- Enter your username and password to continue 
+- To use the demo account username ``demo`` password ``demo``
+- *Automatated messaging is a deactivated and records will be permanenty be deleted after 24Hrs*
+<img src="./images/login.png" height="400px" width="250">
 
 ### Register Parcel Page
 
