@@ -3,7 +3,7 @@
 ## MOBILE APP(ANDROID)
 ### LOGIN PAGE
 - Enter your username and password to continue
-- **To use the demo account username ``demo`` password ``demo``
+- To use the demo account username ``demo`` password ``demo``
 - *Automatated messaging is a deactivated and records will be permanenty be deleted after 24Hrs*
 <img src="./images/login.png" height="400px" width="250">
 
@@ -14,7 +14,7 @@
 - Click ``Register Button`` to register the parcel a confirmation message wil be sent to the ``Sender `` ** 
 <img src="./images/reg_parcel.png" height="400px" width="250">
 
-### Send Parcel Page
+## Send Parcel Page
 
 ### Select ``Vehicle `` 
 <img src="./images/send_page.png" height="400px" width="250">	
